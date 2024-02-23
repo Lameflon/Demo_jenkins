@@ -2,7 +2,7 @@
 // FileName : "HelloWorld.java".
  
 public class Main {
-    public static void main(String[] args) {
+    public static void mai {
     System.out.println("Hey!");
      System.out.println("How are you !?");
     }
