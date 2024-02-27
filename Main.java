@@ -1,9 +1,9 @@
 // This is a simple Java program.
-// FileName : "HelloWorld.java".
+// FileName : "HelloWorl.java".
  
-public class Main { 
-    public static void main (String[] args){
-    System.out.println("Hey!");
-     System.out.println("How are you !?");
+public class Main {
+    public static void main(String[] args) {
+    System.out.println("Hii , Hello!!!");
+     System.out.println("How are you?");
     }
 }
